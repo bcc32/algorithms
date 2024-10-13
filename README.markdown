@@ -2,7 +2,7 @@
 
 [API Documentation](http://kanwei.github.io/algorithms/)
 
-## DESCRIPTION:
+## DESCRIPTION
 
 Started as a [Google Summer of Code 2008](http://code.google.com/soc/2008/ruby/about.html) project
 
